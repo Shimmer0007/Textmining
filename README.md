@@ -184,4 +184,4 @@
 
 ## 9. 致谢
 
-- 致敬伟大的`Gemini-2.5-Pro-Preview(0506)`、`Claude-3.7-Sonnet`、`GPT-4-Sonnet`和`Deepseel-V3-0324`，没有你们就没有这份作业的完成。
+- 致敬伟大的`Gemini-2.5-Pro-Preview(0506)`、`Claude-3.7-Sonnet`、`GPT-4-Sonnet`和`Deepseek-V3-0324`，没有你们就没有这份作业的完成。
